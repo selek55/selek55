@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=selek55&layout=compact)
+
 <!--
 **selek55/selek55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
