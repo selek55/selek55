@@ -1,4 +1,5 @@
-### Hi there 👋
+### Merhaba. Ben Yasin Selek. 👋
+- Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
 
 ![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=selek55&layout=compact)
 
