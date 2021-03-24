@@ -1,8 +1,9 @@
 ### Merhaba. Ben Yasin Selek. 👋
 - Hiçbir şey bilmediğini gayet iyi bilen bir programlama sevdalısıyım. 😄
 
-![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=selek55&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Yasin's github stats](https://github-readme-stats.vercel.app/api/?username=selek55&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- ![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=selek55&layout=compact&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+- ![Yasin's github stats](https://github-readme-stats.vercel.app/api/?username=selek55&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **selek55/selek55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
